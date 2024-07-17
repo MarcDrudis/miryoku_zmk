@@ -11,3 +11,4 @@ jobs:
       board: '["nice_nano"]'
       shield: '["corne_left","corne_right"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
+      nav: '["vi"]'
