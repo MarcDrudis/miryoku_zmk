@@ -80,7 +80,7 @@ MIRYOKU_X(FUN,    "Fun")
 
 #define U_BASE   0
 #define U_EXTRA  1
-#define U_TAP    2
+#define U_GAME    2
 #define U_BUTTON 3
 #define U_NAV    4
 #define U_MOUSE  5
