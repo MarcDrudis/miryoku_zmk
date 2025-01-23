@@ -1,4 +1,4 @@
-name: 'marccustom'
+name: 'cornenano'
 on: workflow_dispatch
 jobs:
   build:

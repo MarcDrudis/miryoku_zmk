@@ -1,4 +1,4 @@
-name: 'marccustom'
+name: 'planck'
 on: workflow_dispatch
 jobs:
   build:
