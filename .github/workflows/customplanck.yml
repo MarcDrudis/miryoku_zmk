@@ -1,0 +1,10 @@
+name: 'marccustom'
+on: workflow_dispatch
+jobs:
+  build:
+    uses: ./.github/workflows/main.yml
+    secrets: inherit
+    with:
+      board: '["planck_rev6"]'
+      shield: '[""]'
+      nav: '["vi"]'
